@@ -1,0 +1,516 @@
+trabalho final do curso de extensão,
+
+marketing digital de excelência – PUC-COGEAE – 2018
+
+
+# modelo de negócio - tv on demand
+
+marjha bacic       |	marjhabcamara@gmail.com
+
+mateus mendes |	mtsmnds@gmail.com
+
+nathalia lopes     |	limalopesnathalia@gmail.com
+
+professor doutor david de oliveira lemes – 
+
+professor paulo silvestre – www.paulosilvestre.com.br
+
+objetivo: desenvolver abordagens de relacionamento com o cliente para um proposto serviço de tv on demand
+
+instruções: _ctrl + alt + h_ (ou _ctrl + alt + a_) para ver o _document outline_
+
+
+# index
+
+
+[TOC]
+
+
+
+# 
+
+
+# planejamento
+
+
+## canvas de visão
+
+
+<table>
+  <tr>
+   <td colspan="4" ><strong>visão</strong>
+<p>
+- qual a visão do produto?
+<p>
+oferecer um ambiente digital saudável para o entretenimento de crianças, podendo até ter caráter formativo e ser o primeiro contato delas com o mundo digital. 
+<p>
+- qual a motivação para a criação do produto?
+<p>
+somos motivados pelo cenário atual muitas vezes nocivo ao público infantil e pela visão de oportunidade de negócio, querendo movimentar um mercado atualmente mal explorado e aliar a isso um setor criativo que merece ter mais saída para o mercado.
+<p>
+- qual o grande objetivo a ser atingido com a criação deste produto?
+<p>
+conectar criação de conteúdo infantil ao público, movendo a economia desse setor enquanto deixamos os pais do Brasil e do mundo tranquilos sobre o que seus filhos assistem e aprendem, com a sensação de controle.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>cliente alvo</strong>
+<p>
+- qual o mercado alvo que se deseja atingir?
+<p>
+mercado de entretenimento infantil para crianças de 0 a 12 anos de idade
+<p>
+- quem são os clientes-alvo e usuários?
+<p>
+são três personas iniciais: o cliente final, que é <strong>a criança </strong>de 0 a 12 anos de idade; <strong>os pais</strong>, responsáveis pelo cliente final e pela decisão de compra; <strong>os criadores de conteúdo</strong>, nas formas de publishers, licenciadores e criadores independentes.
+   </td>
+   <td><strong>necessidades</strong>
+<p>
+- que problema o produto resolve?
+<p>
+o problema de fácil acesso a conteúdo impróprio para as idades do cliente final, o problema de falta de controle pelos pais, o problema de criadores não terem acesso a clientes frente ao mercado competitivo de ver qualquer conteúdo, independente da qualidade, na internet 
+<p>
+- qual o benefício que ele fornece?
+<p>
+conteúdo de qualidade e educativo; controle e ciência total sobre o que seu filho vê; um outlet para a produção criativa para o pub infantil.
+   </td>
+   <td><strong>produto</strong>
+<p>
+- o que é o produto?
+<p>
+<em>software as a service</em>
+<p>
+conectando crianças a entretenimento de qualidade, deixando os pais cientes, sendo um portal de acesso para criadores postarem e controlarem seu conteúdo.
+<p>
+- no que se diferencia dos concorrentes?
+<p>
+por ser completamente focado no seu nicho, ter controle total pelos pais.
+<p>
+- é viável desenvolver o produto?
+<p>
+sim, <em>saas</em> é facilmente desenvolvido hoje em dia. 
+   </td>
+   <td><strong>objetivos de negócio</strong>
+<p>
+- como o produto vai beneficiar sua empresa?
+<p>
+irá beneficiar investidores com retorno em ações etc
+<p>
+- quais são os objetivos de negócio?
+<p>
+crescer como plataforma, oferecer mais formas de entretenimento e ressignificar o mercado de entretenimento infantil sendo exemplo e referência número 1 no segmento.
+   </td>
+  </tr>
+</table>
+
+
+
+### 
+
+
+## é, não é / faz, não faz
+
+
+<table>
+  <tr>
+   <td><strong>o que é</strong>
+<p>
+ um <em>saas</em>
+   </td>
+   <td><strong>o que não é</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>o que faz</strong>
+<p>
+cria meios de mostrar conteúdo
+<p>
+cria parcerias com publishers, criadores, licenciadores, tradutores. 
+<p>
+investe em produções e conteúdo
+   </td>
+   <td><strong>o que não faz</strong>
+<p>
+não detém meios de produção, não cria conteúdo de entretenimento.
+   </td>
+  </tr>
+</table>
+
+
+
+## elevator pitch
+
+**para **crianças de 0 a 12 anos
+
+**que **assiste ou se interessa em entretenimento audiovisual
+
+**o **tv on demand para crianças nome a ser definido
+
+**é um **serviço de tv on demand no formato software as a service
+
+**que **oferece conteúdo divertido, adequado e educativo num ambiente seguro
+
+**ao contrário **de youtube, netflix, twitch e tv convencional
+
+**o produto **tem como vantagem a dedicação exclusiva ao segmento, na forma de curadoria do conteúdo para aproximar e educar pais e filhos
+
+**para** mães e pais de todas as idades
+
+**que **precisam ou querem oferecer entretenimento de qualidade para seus filhos
+
+**o **tv on demand para crianças nome a ser definido
+
+**é um **serviço de tv on demand saas para crianças
+
+**que **oferece o conteúdo ideal para seu filho e total controle e informação para você
+
+**ao contrario** de youtube, netflix, twitch e tv convencional
+
+**o produto** tem como vantagem dedicação exclusiva a qualidade do seu conteúdo e te colocar a frente do que está acontecendo, deixando a par de que tipo de conteúdo seu filho está consumindo.
+
+
+# 
+
+
+# proposta de valor
+
+
+# ano 0
+
+
+## para crianças 
+
+dois focos em entretenimento, 
+
+
+
+1.  o meramente lúdico e 
+1.  o entretenimento educativo
+
+
+### distribuição do conteúdo
+
+80% conteúdo exclusivo licenciado e 20% conteúdo independente
+
+busca a oportunidade inicial de patrocinar/investir em conteúdo de baixo custo, ex.: adaptação de obras em domínio público com potencial apelo a pais e filhos
+
+
+## para pais
+
+
+
+1.  notificações sobre o que seu filho está vendo, opção de ser em tempo real ou um apanhado do dia. push notifications ou email.
+1.  capacidade de sugerir conteúdo para as contas dos filhos.
+1.  blog posts de dicas de segurança na internet; como configurar os acessos do filho; dicas de educação e convivência; notícias do mundo das crianças; tudo com o objetivo de se tornar um canal de melhoria na convivência entre pais e filhos tendo em vista o cenário de rápida mudança no entretenimento e pouco tempo para estar a par de tudo.
+
+
+### distribuição do conteúdo
+
+todo conteúdo deve ser no formato de texto + vídeo + áudio only. maximizando usabilidade do conteúdo, valor e acessibilidade.
+
+
+## para fornecedores / criadores
+
+
+
+1.  plataforma como portfólio para seu conteúdo
+1.  metricas
+1.  retorno financeiro
+
+
+# ano 5
+
+com a expectativa de crescimento do negócio prevemos a expansão da oferta de conteúdo e do mix de produtos disponíveis na base do serviço. o caminho de expansão deve seguir largamente análise de big data em acordo com a visão da empresa.
+
+
+# marketing
+
+
+# pré-marketing
+
+captação de investidores; avaliação do cenário e de possíveis interessados; busca por parcerias.
+
+possíveis investidores
+
+- marcas e indústrias de produtos para crianças que queriam associar sua marca a esse conteúdo: nestlé, mucilon, marcas de brinquedos, etc
+
+- grandes ou médios empreendimentos já envolvidos no setor de entretenimento infantil que estejam procurando por uma plataforma dedicada.
+
+negócios
+
+papel de "brokerage" de parcerias entre investidores com criadores de conteúdo conseguindo direcionar os interesses desses stakeholders para gerar conteúdo 
+
+estabelecimento de plataforma como "ambiente de propaganda" de forma tasteful, não intrusiva, focada no público infantil.
+
+
+# 1 captação de clientes
+
+
+
+1.  o conteúdo para os pais é o próprio marketing a essa persona
+1.  influencers com base formada de seguidores da persona _criança_
+    1.  canais como _twitch _e _youtube_
+1.  influencers com base formada de seguidores da persona _pais_
+    1.  possibilidade de alimentar influencers com informação?
+1.  participação em eventos offline promovendo conteúdo da plataforma (especialmente conteúdo com valor offline, literário, lúdico, etc) agregando valor
+
+
+## campanhas
+
+
+### campanhas específicas de férias e de volta às aulas, 
+
+_tied _com lançamento de conteúdo dirigido a esses períodos: conteúdo mais lúdico para as férias e conteúdo mais educativo para a volta às aulas. 
+
+conteúdo _estilo blog post _para os pais nas épocas acima; dicas de compras de material escolar; etc.
+
+promoção na compra do pacote de meses desses períodos, retornando ao valor normal ao fim do período com renovação automática. 
+
+
+### pacotes e valores
+
+pacote por crianças, ou acessos, mas o valor tem que começar simbólico, numa faixa que seja vista pelo público alvo como um bom investimento. pode ser reajustado no crescimento da plataforma. 
+
+campanhas que abordem o valor, e o próprio site, podem se valer de comparações benéficas, deve ser estudado a expectativa de valor e preço para os pais, levando em consideração o desgaste com o mercado de subscription, a coisa toda tem que ser vendida como muito agradável e sem stress.
+
+
+### responsáveis como foco
+
+
+    ferramentas de controle exclusivos
+
+
+        reciclagem e aulas sobre como conduzir melhor a educação do filho e o controle digital		
+
+
+### foco nas crianças
+
+		conteúdo exclusivo
+
+                           Conteúdo didático que pode ser utilizado como complemento de aulas  
+
+
+### captação de fornecedores
+
+	Contrato de exclusividade (produtores e redes de internet) 
+
+
+## 2 valorização de clientes
+
+
+### atendimento ao cliente
+
+vemos aqui a oportunidade de conectar com o consumidor num nível pessoal. 
+
+perfil de contratação para atendimento:
+
+	pais e mães 
+
+	podem trabalhar de casa ou do escritório no atendimento online e telefônico
+
+	empáticos e simpáticos para saber lidar com os pais e com os filhos
+
+
+        é possível que o cliente _criança_ faça ligações, o atendimento vai estar preparado para isso.
+
+	atendimento como extensão da experiência lúdica de aproximar pais e filhos
+
+
+## 3 programa de retenção
+
+a plataforma não antagonizará outras plataformas, meta de formar laços com o seu público, aumentando a retenção.
+
+saída livre e cancelamento a qualquer momento. 
+
+emails periódicos à base de ex-clientes por cluster de acordo com os dados obtidos no seu período de utilização. 
+
+ofertas relevantes ao cliente e ao momento. (oferta de volta as ferias, trigger de pacotes combinados junto com lançamento de novos títulos.
+
+
+### crescimento da plataforma
+
+(deveria estar no item de previsão de 5 anos mas) para finalizar, visamos crescer com o público. iniciando com crianças de 0 a 12 anos parte dos negócios será investida em se preparar para a expansão do conteúdo anualmente, 13, 14, 15 etc, visando acompanhar o público e oferecer _fresh_ content para esse público, assim como continuar acompanhando os pais nessa jornada.
+
+ponto de cut-off a ser avaliado onde a plataforma se torna outro SaaS para a nova faixa etária (ex.: 17 pra cima) e objetivo de migração ou até bundling desse novo produto para o cliente que cresceu com a empresa ou o pai que queira comprar os dois. 
+
+fim.
+
+
+# DRAFT
+
+
+# to do
+
+
+
+*   esqueleto do trabalho
+    *   o que vai ter na apresentação
+*   Fluxo da apresentação 
+*   Cases de mercado para mostrar como referência
+
+Possíveis concorrentes do mercado (indireto e direto) 
+
+
+
+*   Canais infantis da tv por assinatura (já que incluem a vantagem de vir incluídos em uma plano que normalmente toda a família usa) 
+*   Netflix sessão kids
+*   Canais do youtube direcionados para crianças : [https://www.semprefamilia.com.br/10-canais-do-youtube-para-criancas-de-5-a-10-anos/](https://www.semprefamilia.com.br/10-canais-do-youtube-para-criancas-de-5-a-10-anos/) 
+    *   Swot?
+
+Planos e valores para contratação do serviço (sugerir)
+
+
+
+*   Básico ( 4 meses + 1 mês de férias (grátis), programação limitada, ultra HD, pode assistir de tablets e celulares, cancelamento sem custo) R$ 
+*   Padrão ( 5 meses  + 2 meses de férias (grátis), programação ilimitada, acesso a plataforma para conteúdo pedagógico, ultra HD, pode assistir de tablets e celulares, cancelamento sem custo, brinde do brinquedo d desenho lançamento do mês) R$ 
+*   Premium (1 ano + 3 meses de férias (grátis), programação ilimitada, lançamentos ilimitados, acesso a plataforma de conteúdo pedagógico, ultra HD, pode assistir de tablets e celulares, cancelamento sem custo, brindes dos brinquedos sempre que houver um lançamento) R$ 
+*   Tempo médio para a implementação (x)
+*   Cronograma de setup`s  (idem)
+*   Fim :)
+
+
+# draft
+
+
+# brainstorming
+
+
+## Conceito | Razão
+
+O mundo evoluiu muito em tecnologia – acesso à informação e entretenimento – e enquanto a geração que vivenciou essa transformação temos o desafio de criar crianças nesse novo ambiente tecnológico. 
+
+O entretenimento infantil, antes selecionado e curado por emissoras de TV e pelos pais – na seleção do que exibir e comprar para seus filhos – hoje encontra-se desgovernado, as crianças com seus tablets, celulares, smart tvs tem acesso direto a fornecedores de conteúdo sem nenhuma garantia de qualidade.
+
+O _______ pretende usar a força total das novas tecnologias para oferecer um espaço de qualidade as crianças e criadores de conteúdo infantil enquanto que deixando os pais não só tranquilos mas também informados e com total controle do que seus filhos podem assistir, além de formas de interagir e gerenciar esse conteúdo, gerando um loop de feedback positivo que estimulará novas produções de qualidade.
+
+ADENDO -  pensei em estender um pouco para os pais. Muitos pais (o público feminino ainda é consideravelmente maior)  procuram e partilham dicas sobre a criação de filhos : [https://www.semprefamilia.com.br/6-canais-do-youtube-que-toda-mae-devia-acompanhar/](https://www.semprefamilia.com.br/6-canais-do-youtube-que-toda-mae-devia-acompanhar/) 
+
+Poderíamos ter uma sessão assim 
+
+
+## O que é
+
+<span style="text-decoration:underline;">Proposta de valor: </span>
+
+<span style="text-decoration:underline;">Elevator Pitch: </span>
+
+
+
+*   <span style="text-decoration:underline;">Para</span> pais <span style="text-decoration:underline;">que</span> precisam oferecer um entretenimento de qualidade à seus filhos, <span style="text-decoration:underline;">o</span> NOME DO PRODUTO
+
+Um serviço de subscrição de filmes e séries por streaming no formato SaaS (software as a service). 
+
+Entendemos os clientes como stakeholders e os dividimos inicialmente em três categorias: 
+
+
+
+*   Publico Infantil 		- Usuário final, consumidor
+*   Pais 				- Cliente com poder de compra e veto, deve ser
+
+                  administrado com igual ou mais atenção
+
+*   Criadores de conteúdo 	- Devemos ter um ambiente atrativo para criadores e
+
+                      visão de querer fomentar criação de conteúdo, crescendo para ganhar uma dimensão de publisher/produtora.
+
+
+Venda - marketing focado nas crianças e marketing focado nos pais. 
+
+são approaches diferentes mas que levam ao mesmo destino que é o download do app. 
+
+Inscrição/assinatura o mais simples possível e rápida em funil e período de trial grátis
+
+Atendimento feito por pessoas entendidas e que podem empatizar com o cliente (Tully) seja criança ou adulto - formar perfil
+
+Estudar experiência de retenção e saída
+
+
+## swot
+
+Strength 
+
+
+
+*   Conteúdo brasileiro ou dublado exclusivo
+*   Conteúdo educativo
+*   Conteúdo curado e selecionado
+*   Não há no Brasil
+*   Melhor parental control e segurança que não há conteúdo impróprio na plataforma
+*   Estimula mercado brasileiro de audiovisual
+*   Mistura educação com entretenimento em age appropriate content
+
+Weakness
+
+
+
+*   Identificar essas potenciais parcerias com produtores e publishers é vital
+*   Licenciar conteúdo âncora
+*   Começar com uma base atrativa
+*   Atrair criadores independentes para gerar conteúdo
+*   Identificar talento
+
+(Caminho spotify - conteúdo postado pelos criadores em supervisão)
+
+(Caminho netflix - conteúdo comprado/licenciado pela plataforma)
+
+Opportunity
+
+
+
+*   As formas de entretenimento atuais não veem a criança como um cliente especial e não oferecem total segurança sobre o que pode ser visto. 
+*   Os pais não tem controle total sobre o uso das suas crianças desses aparelhos
+*   Outras plataformas não possuem a possibilidade de customizar o canal infantil. Seria bacana se na nossa os pais pudessem adicionar os filmes e desenhos e programasse um horário
+
+Threats
+
+
+
+*   As mesmas formas de entretenimento atuais que oferecem opções gratuitas ou já são um custo base e não custam mais para a criança ver também (youtube netflix twitch, etcccc)
+
+definir produto e definir abordagens de relacionamento
+
+
+    relacionamento com o cliente 
+
+
+        **etapa 1**
+
+
+
+*   Captação
+
+Ações offline : shopping, parques infantis, lojas de brinquedos, produtos de higiene para crianças 
+
+Ações online: teasers em músicas para crianças no youtube e canais voltados para crianças, parcerias com mães blogueiras. 
+
+Estratégia de presença digital nas principais plataformas com o objetivo de atingir os pais 
+
+
+        **etapa 2**
+
+
+
+*   Valorização (fidelização do cliente?) 
+*   SLA como diferencial 
+*   Interação com os responsáveis (pais)
+*   Programa de pontuação (?) 
+*   Desconto nos meses de férias escolares 
+
+        **etapa 3**
+
+*   retenção 
+
+Baixar o preço do plano a cada aniversário da criança
+
+
+
+*   dar aquele desconto quando o cara acha o botão de cancelar a subscriptions
+*    Parcerias com parceiros do segmento
+*   
+
+
+# Casos da concorrência
+
+[https://www.cosmopolitan.com/entertainment/tv/a12447385/netflix-maya-the-bee-penis-episode/](https://www.cosmopolitan.com/entertainment/tv/a12447385/netflix-maya-the-bee-penis-episode/)
+
+Olá Mateus, não precisa ser totalmente inovador. Assim co modelo de negócios não precisa ser muito detalhado. Quero que me descrevam o produto, seu público-alvo, os planos oferecidos, incluindo preços. Uma análise SWOT também cairia bem. A ideia é apenas ver se a proposta de vocês é pelo menos viável.
